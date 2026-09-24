@@ -1,2 +1,2 @@
 six==1.15.0
-social-auth-core==3.3.3
+social-auth-core==5.0.0
